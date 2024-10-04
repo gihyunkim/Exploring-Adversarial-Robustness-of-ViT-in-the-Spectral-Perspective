@@ -1,4 +1,4 @@
-<img src="https://github.com/gihyunkim/exploring_adversarial_examples_in_spectral_perspective/blob/main/imgs/fourier_attack.png" width="700" height="300">
+<img src="https://github.com/gihyunkim/exploring_adversarial_examples_in_spectral_perspective/blob/main/imgs/fourier_attack.png" width="1000" height="400">
 
 ## Installation
 
