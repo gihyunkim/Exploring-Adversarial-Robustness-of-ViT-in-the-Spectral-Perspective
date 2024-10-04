@@ -1,0 +1,9 @@
+torch 1.11.0
+torchvision 1.12.0
+opencv-python 4.5.4.60
+timm 0.5.4
+piq 0.7.0
+numpy 1.21.2
+Pillow 8.4.0
+seaborn 0.11.2
+pandas 1.3.5
