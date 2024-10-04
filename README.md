@@ -1,4 +1,4 @@
-## exploring_adversarial_examples_in_spectral_perspective
+\includegraphics{imgs/fourier_attack.png}
 
 ## Installation
 
