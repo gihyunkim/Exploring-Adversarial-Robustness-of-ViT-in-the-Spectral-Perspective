@@ -39,7 +39,7 @@ def get_config():
     parser.add_argument('--label_path', default='./label.txt', help='path for label file')
     parser.add_argument('--dst_path', default='./saved', help='dir for saving results')
     parser.add_argument('--seed', default=7, type=int, help='random seed')
-    args = parser.parse_args(["--model_name", "vit-b-21k", "--attack", "phase", '--save'])
+    args = parser.parse_args()
     return args
 
 class FourierAdversarialAttack:
