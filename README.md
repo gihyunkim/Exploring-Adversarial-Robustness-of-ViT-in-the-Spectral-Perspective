@@ -1,4 +1,6 @@
 ## Exploring Adversarial Robustness of Vision Transformers in the Spectral Perspective
+Official code for the paper *"Exploring Adversarial Robustness of Vision Transformer in the Spectral Perspective"*, presented at WACV 2024.
+
 This paper introduces a new perspective by exploring adversarial vulnerability to frequency-selective perturbations in the spectral domain. A flexible attack framework is proposed to compare spatial and spectral domain attacks. Experiments show that Transformers rely heavily on phase and low-frequency information, making them more susceptible to frequency-based attacks than CNNs. 
 
 <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Exploring_Adversarial_Robustness_of_Vision_Transformers_in_the_Spectral_Perspective_WACV_2024_paper.pdf" target="_blank">[paper]</a> 
